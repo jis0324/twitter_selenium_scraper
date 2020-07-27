@@ -1,4 +1,4 @@
-## For windows OS
+# For windows OS
 
 ``` bash
 # please make sure you have python3 installed on your OS.
